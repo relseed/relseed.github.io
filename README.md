@@ -1,2 +1,2 @@
 # relseed.github.io
-This is ny new UXD home
+This is my new UXD home
